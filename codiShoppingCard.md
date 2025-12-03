@@ -1,5 +1,3 @@
-# Descripción de GitLab
-
 GitLab es una plataforma DevOps que integra control de versiones Git con herramientas de CI/CD, gestión de incidencias y automatización.
 
 ## Funcionalidades principales
@@ -8,5 +6,3 @@ GitLab es una plataforma DevOps que integra control de versiones Git con herrami
 - Gestión de issues
 - Pipelines automatizados
 - Gestión de equipos y permisos
-
-Web oficial: https://about.gitlab.com/
